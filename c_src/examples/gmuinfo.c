@@ -13,7 +13,7 @@ void gmu_main(void)
     gmu_clear();
     gmu_print("========================================");
     gmu_newline();
-    gmu_print("               GMU OS");
+    gmu_print("          GMU OS C DEMO - BY YESHU");
     gmu_newline();
     gmu_print("  C-Oriented Learning Edition - 0.1");
     gmu_newline();

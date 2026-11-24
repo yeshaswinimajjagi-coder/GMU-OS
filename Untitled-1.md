@@ -14,3 +14,7 @@ works and builds the image as\
 
 - Week 1 step done. Before and after photos are in folder:\
 `C:\GMU\GMU_OS_0.1_C_Oriented\GMU_OS_0.1_C_Oriented\Before and afters`
+
+- Week 2,3,4 done together. Only 'after' images are in the folder.
+
+- Week 5 is not done because I cannot enable virtualization (in this laptop), so cannot install WSL2. So cannot rebuild C binaries.
