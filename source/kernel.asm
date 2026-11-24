@@ -206,7 +206,7 @@ option_screen:
 
 	; Data for the above code...
 
-	os_init_msg		db 'Welcome to GMU OS', 0
+	os_init_msg		db 'Welcome to GMU OS, modified by Yeshaswini', 0
 	os_version_msg		db 'Version ', MIKEOS_VER, 0
 
 	dialog_string_1		db 'Thanks for trying out GMU OS!', 0
